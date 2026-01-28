@@ -191,7 +191,6 @@ Berikut adalah library utama yang digunakan dalam proyek ETL dan web scraping in
 
 ---
 
-*Dokumentasi lebih lengkap tentang library ini bisa kamu akses di dokumentasi resmi masing-masing library dan sumber pembelajaran Python terkait.*
 
 ## Reference
 1. link website: https://www.techinasia.com/jobs/search?country_name[]=Indonesia&country_name[]=Singapore&country_name[]=Malaysia&country_name[]=Vietnam&country_name[]=India&country_name[]=Philippines&country_name[]=Australia&country_name[]=Japan&country_name[]=Korea%2C%20Republic%20of&country_name[]=Thailand&country_name[]=China&ref=nav
